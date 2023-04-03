@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100" alt="JavaScript Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" height="100" alt="React Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" alt="JavaScript Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" height="50" alt="React Logo">
 </p>
