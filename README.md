@@ -1,11 +1,12 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerlimanlar&label=Profile%20views&color=ffff00&style=flat" alt="sezerlimanlar" /> </p>
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: limanlarsezer@gmail.com
 <!--
 **sezerlimanlar/sezerlimanlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerlimanlar&label=Profile%20views&color=0e75b6&style=flat" alt="sezerlimanlar" /> </p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
