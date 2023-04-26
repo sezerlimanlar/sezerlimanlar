@@ -1,5 +1,7 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerlimanlar&label=Profile%20views&color=ffff00&style=flat" alt="sezerlimanlar" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerlimanlar&label=Profile%20views&color=ffa500&style=flat" alt="sezerlimanlar" /> </p>
+
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: limanlarsezer@gmail.com
 <!--
