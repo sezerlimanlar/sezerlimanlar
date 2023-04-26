@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: limanlarsezer@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezerlimanlar&show_icons=true&locale=en&layout=compact" alt="sezerlimanlar" /></p>
-<br>
 <!--
 **sezerlimanlar/sezerlimanlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
