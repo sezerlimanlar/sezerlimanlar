@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, Im Sezer👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerlimanlar&label=Profile%20views&color=ffa500&style=flat" alt="sezerlimanlar" /> </p>
 
